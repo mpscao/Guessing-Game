@@ -1,6 +1,6 @@
 import random
 
-# Please complete the code in the following function.
+
 def guess(n: int): # define function to have input int
     guessNum = int(input("Guess a number")) # Ask user for guess
     #print(n) test to see if the function works properly
